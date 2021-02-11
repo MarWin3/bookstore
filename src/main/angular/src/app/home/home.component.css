@@ -1,0 +1,48 @@
+.content {
+  float: left;
+  padding: 5px;
+}
+.card-image{
+  width: 100px;
+  height: 100px;
+}
+.nav-wrapper{
+
+  align-items: center;
+  background: navajowhite;
+}
+.row{
+  background: navajowhite;
+  width: 85%;
+  border-radius: 5px;
+  //min-width: 1000px;
+}
+.collection{
+  background: navajowhite;
+}
+.container{
+  max-width: 100%;
+  align-items: center;
+  border: 10px white;
+}
+.category-list{
+ width: 200px;
+
+}
+
+col{
+  border-image-width: 5px;
+  border-radius: 5px;
+}
+
+footer{
+  width: 85%;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+#logo{
+  font-size: 70px;
+  font-family: Papyrus;
+}
